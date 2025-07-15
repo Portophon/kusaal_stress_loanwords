@@ -7,5 +7,4 @@ The following link leads to the LexTALE English proficiency test taken by partic
 
 The file Corpus contains the spreadsheets with the corpus of 84 loanwords analysed, which can also be found at the following link: https://docs.google.com/spreadsheets/d/11aQmwTZ8PxiMnswiJuHUzJAgLVQRjC-fdoO3OMz2Rn0/edit?usp=sharing
 
-
-A pasta Y contém as gravações xxxx
+The folder Recordings of stimuli contains all of the auditory stimuli used in the language processing study on PCIbex.
